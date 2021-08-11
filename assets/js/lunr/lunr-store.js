@@ -40,4 +40,10 @@ var store = [{
         "tags": ["Post Formats","readability","standard"],
         "url": "/blog/ultimate/",
         "teaser": null
+      },{
+        "title": "Welcome to test",
+        "excerpt":"test start   print(\"hello\")   test complete  ","categories": ["blog"],
+        "tags": ["Jekyll","update"],
+        "url": "/blog/testing/",
+        "teaser": null
       }]
